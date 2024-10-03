@@ -1,0 +1,9 @@
+{
+	"name": "olympic1datafactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b0a59892-28d1-4be5-9172-bb0820613dcf",
+		"tenantId": "bf93bb5e-ecf0-4e3d-be0e-79b5cc527a48"
+	}
+}
